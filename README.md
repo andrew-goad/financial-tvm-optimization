@@ -35,8 +35,9 @@ The following visualization demonstrates the engine's ability to scale individua
 
 ---
 
-### 🛡️ Integrity & Confidentiality Note
-**Data Privacy:** This repository demonstrates the engineering methodology for high-scale TVM calculation. All data displayed in visualizations—including account populations and interest rates—is synthetic or sourced from publicly available Treasury data. 
+### 🔒 Integrity & Confidentiality Note
+**Data Privacy:** All data and visual outputs in this repository are generated from synthetic or anonymized datasets to protect proprietary information. This framework demonstrates the methodology applied to high-stakes enterprise and regulatory environments.
 
 ---
+
 **Philosophy:** “No Cold Handoffs”—engineering zero-defect, audit-ready results.
