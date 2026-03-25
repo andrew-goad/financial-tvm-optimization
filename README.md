@@ -1,4 +1,4 @@
-# Executive Narrative: Scaling the TVM Cost Signal for Remediation
+# Executive Narrative: Scaling the TVM Cost Signal for Remediation 📈⏳
 
 ## 🎯 Strategic Intent: Liability Forecasting & Financial Integrity
 **How do you distill dense, high-dimensional data into a clear "Why" for Finance, Legal, and Operations stakeholders?**
@@ -20,18 +20,18 @@ The following visualization demonstrates the engine's ability to scale individua
 ---
 
 ### 📈 Executive "Talk Tracks"
-* [cite_start]**The "No Cold Handoffs" Promise:** Despite the technical complexity, the output is a clean, defensible dataset ready for direct financial disbursement or federal regulatory examination[cite: 11, 27].
-* **Solving the Memory Ceiling:** Standard DATA step processing can struggle with millions of iterative date-diff calculations. [cite_start]By moving logic into **compiled FCMP functions**, we modernize the analytical pipeline and reduce execution time by 60–80%[cite: 15, 26].
-* [cite_start]**Treasury-Grade Inputs:** The system dynamically ingests and backfills Treasury CMT rates (handling holiday/weekend gaps), ensuring the remediation stands up to 3rd-line audit and National Risk Committee scrutiny[cite: 19, 27].
-* [cite_start]**Liability Magnitude:** This is a forecasting tool that empowers leadership to internalize the "why" behind liability shifts and drive more accurate program-level revenue-reversal strategies[cite: 10, 11].
+* **The "No Cold Handoffs" Promise:** Despite the technical complexity, the output is a clean, defensible dataset ready for direct financial disbursement or federal regulatory examination.
+* **Solving the Memory Ceiling:** Standard DATA step processing can struggle with millions of iterative date-diff calculations. By moving logic into **compiled FCMP functions**, we modernize the analytical pipeline and reduce execution time by 60–80%.
+* **Treasury-Grade Inputs:** The system dynamically ingests and backfills Treasury CMT rates (handling holiday/weekend gaps), ensuring the remediation stands up to 3rd-line audit and National Risk Committee scrutiny.
+* **Liability Magnitude:** This is a forecasting tool that empowers leadership to internalize the "why" behind liability shifts and drive more accurate program-level revenue-reversal strategies.
 
 ---
 
 ### 🛠️ Strategic Architecture & Technical Rigor
-* [cite_start]**Advanced Array Processing:** Extensive use of **2D arrays** to store and manipulate interest rate tables in-memory for zero-latency lookups[cite: 26].
-* [cite_start]**Macro "Chunking" Strategy:** Custom batch-windowing logic to partition populations into manageable segments, optimizing disk space and thread usage[cite: 46, 50].
-* [cite_start]**Custom Function Library:** Utilized `PROC FCMP` to create a permanent library of compiled financial functions, standardizing TVM logic across the enterprise[cite: 15, 28].
-* [cite_start]**Forensic Data Engineering:** Automated "White-Box" testing within the code to validate anniversary markers and remainder-day precision[cite: 57].
+* **Advanced Array Processing:** Extensive use of **2D arrays** to store and manipulate interest rate tables in-memory for zero-latency lookups.
+* **Macro "Chunking" Strategy:** Custom batch-windowing logic to partition populations into manageable segments, optimizing disk space and thread usage.
+* **Custom Function Library:** Utilized `PROC FCMP` to create a permanent library of compiled financial functions, standardizing TVM logic across the enterprise.
+* **Forensic Data Engineering:** Automated "White-Box" testing within the code to validate anniversary markers and remainder-day precision.
 
 ---
 
@@ -39,4 +39,4 @@ The following visualization demonstrates the engine's ability to scale individua
 **Data Privacy:** This repository demonstrates the engineering methodology for high-scale TVM calculation. All data displayed in visualizations—including account populations and interest rates—is synthetic or sourced from publicly available Treasury data. 
 
 ---
-[cite_start]**Philosophy:** “No Cold Handoffs”—engineering zero-defect, audit-ready results[cite: 11, 27].
+**Philosophy:** “No Cold Handoffs”—engineering zero-defect, audit-ready results.
