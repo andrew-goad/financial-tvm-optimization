@@ -40,4 +40,4 @@ The following visualization demonstrates the engine's ability to scale individua
 
 ---
 
-**Philosophy:** “No Cold Handoffs”—engineering zero-defect, audit-ready results.
+**Philosophy:** **“No Cold Handoffs”**—engineering zero-defect, audit-ready results to ensure stakeholders internalize the underlying “why.”
